@@ -1,0 +1,23 @@
+{
+  "name": "toko-mern",
+  "version": "1.0.0",
+  "description": "alpha version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendrisulistya/toko-mern.git"
+  },
+  "keywords": [
+    "toko",
+    "mern"
+  ],
+  "author": "hendrisulistya",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hendrisulistya/toko-mern/issues"
+  },
+  "homepage": "https://github.com/hendrisulistya/toko-mern#readme"
+}
